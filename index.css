@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;400&display=swap');
+
+/*General Setting--------------------------------*/
+
+body {
+    padding: 261.5px;
+}
+/*Banner-----------------------------------------*/
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    background-color: rgb(136, 9, 191);    
+    color: white;
+    padding:1px;
+    text-align: center;
+    
+}
+/*-----------------------------------------------*/
+h2 {
+    /*font*/
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 12px;
+    /*style*/
+    margin-top: 59px;
+    padding-bottom: 9px;
+    margin-bottom: 0;
+}
+/*Profile Photo----------------------------------*/
+#profile-photo {
+    width: 550px;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+}
+h3 {
+    text-align: center;
+    /*font*/
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    /*style*/
+    margin-top: 4px;
+    padding-top: 0;
+    
+}
+/*Introduce--------------------------------------*/
+h4 {
+    text-align:justify;
+    /*font*/
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    font-size: 13.5px;
+    /*style*/
+    margin-top: 0;
+    padding-top: 5px;
+}
+/*SNS--------------------------------------------*/
+#SNS {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+}
+/*dotted Border Line-----------------------------*/
+#container1 {
+    width: 867px;
+    border-top: 2px dotted rgb(204, 204, 204);
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
