@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600&display=swap');
+
+/*General Setting--------------------------------*/
+
+body {
+    padding:0;
+    padding-left: 17.2%;
+    padding-right: 17.2%;
+}
+/*Banner Image-----------------------------------*/
+#Banner-image {
+    text-align: center;
+    margin:0 auto;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+/*Banner-----------------------------------------*/
+/*h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 156%;
+    background-color: rgb(136, 9, 191);    
+    color: white;
+    padding: 1px;
+    text-align: center;
+}*/
+.Banner-container {
+    padding: 0;
+    margin:0;
+}
+.Banner {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 400%;
+    font-weight:600;
+    height: 35px;
+    background-color: rgb(136, 9, 191);
+}
+.Banner ul {
+    list-style: none;
+}
+.Banner ul li {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 15px;
+    float: inline-start;
+    width: 19.5%;
+    padding-top:7px;
+    padding-bottom:0;
+}
+.Banner a:link, .Banner a:visited {
+    display: block;
+    font-size: 15px;
+    color: white;
+    text-decoration:none;
+    text-align: center;
+}
+.Banner a:hover, .Banner a:focus {
+    color:yellow;
+}
+.Banner a:active {
+    color: rgb(255, 123, 0);
+}
+/*Contacts--------------------------------*/
+#Contacts {
+    text-align: center;
+    
+}
